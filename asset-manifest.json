@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dashboard-reactjs/static/css/main.22b6e383.chunk.css",
+    "main.js": "/Dashboard-reactjs/static/js/main.426a62d7.chunk.js",
+    "main.js.map": "/Dashboard-reactjs/static/js/main.426a62d7.chunk.js.map",
+    "runtime-main.js": "/Dashboard-reactjs/static/js/runtime-main.ba64fe37.js",
+    "runtime-main.js.map": "/Dashboard-reactjs/static/js/runtime-main.ba64fe37.js.map",
+    "static/js/2.76bad8c2.chunk.js": "/Dashboard-reactjs/static/js/2.76bad8c2.chunk.js",
+    "static/js/2.76bad8c2.chunk.js.map": "/Dashboard-reactjs/static/js/2.76bad8c2.chunk.js.map",
+    "static/js/3.ee568714.chunk.js": "/Dashboard-reactjs/static/js/3.ee568714.chunk.js",
+    "static/js/3.ee568714.chunk.js.map": "/Dashboard-reactjs/static/js/3.ee568714.chunk.js.map",
+    "index.html": "/Dashboard-reactjs/index.html",
+    "static/css/main.22b6e383.chunk.css.map": "/Dashboard-reactjs/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.76bad8c2.chunk.js.LICENSE.txt": "/Dashboard-reactjs/static/js/2.76bad8c2.chunk.js.LICENSE.txt",
+    "static/media/banner.846b3312.jpg": "/Dashboard-reactjs/static/media/banner.846b3312.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba64fe37.js",
+    "static/js/2.76bad8c2.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.426a62d7.chunk.js"
+  ]
+}
